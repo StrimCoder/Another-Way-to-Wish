@@ -1,11 +1,11 @@
 📖 Another-Way-to-Wish 💻🎉
-
+----
 Why say Happy Anniversary like everyone else when you can say it in code?
 In a world where 99.9% of people post the same 15 predictable letters — “Happy Anniversary” — on social platforms like Facebook, Twitter, and Instagram, let's break the pattern!
 If you're a developer, coder, or just a tech enthusiast, here's a fun way to wish your loved ones in your favorite programming language.
-
+---
 ✨ What is it?
-
+---
 Another-Way-to-Wish is a collection of simple, sweet anniversary wishes written in different programming languages — making your greeting stand out and geekily charming!
 
 🎁 Features
