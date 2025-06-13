@@ -1,12 +1,15 @@
 📖 Another-Way-to-Wish 💻🎉
+
 Why say Happy Anniversary like everyone else when you can say it in code?
 In a world where 99.9% of people post the same 15 predictable letters — “Happy Anniversary” — on social platforms like Facebook, Twitter, and Instagram, let's break the pattern!
 If you're a developer, coder, or just a tech enthusiast, here's a fun way to wish your loved ones in your favorite programming language.
 
 ✨ What is it?
+
 Another-Way-to-Wish is a collection of simple, sweet anniversary wishes written in different programming languages — making your greeting stand out and geekily charming!
 
 🎁 Features
+
 📜 Anniversary wishes in multiple programming languages
 
 📤 Easy to copy and share on social media, emails, or chats
@@ -15,12 +18,10 @@ Another-Way-to-Wish is a collection of simple, sweet anniversary wishes written 
 
 🛠️ Easily extendable — contribute your own code-snippets in your favorite language
 
+
 📂 Project Structure
 
 ```
-css
-Copy
-Edit
 Another-Way-to-Wish/
 │
 ├── wishes/
@@ -35,6 +36,7 @@ Another-Way-to-Wish/
 ```
 
 🚀 Example Wishes
+
 Python 🐍
  
  ```
@@ -79,14 +81,19 @@ Watch them smile. 😊
 ```
 
 📢 Contribute
+
 Want to add a wish in your favorite language?
+
 Fork this repo, add a new file in the wishes/ folder and send a pull request.
 
 📜 License
+
 This project is licensed under the MIT License.
 
 ✨ Final Thought
+
 💡 Code is a language too — let your love compile and run successfully for life!
 
 😊 The Site'S Live Demo
+
 https://strimcoder.github.io/Another-Way-to-Wish/
