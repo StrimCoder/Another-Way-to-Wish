@@ -77,16 +77,6 @@ Paste it on your friend's timeline, message box, or tweet it!
 Watch them smile. 😊
 ```
 ---
-📢 Contribute
----
-Want to add a wish in your favorite language?
-
-Fork this repo, add a new file in the wishes/ folder and send a pull request.
----
-📜 License
----
-This project is licensed under the MIT License.
----
 ✨ Final Thought
 ---
 💡 Code is a language too — let your love compile and run successfully for life!
@@ -94,3 +84,24 @@ This project is licensed under the MIT License.
 😊 The Site'S Live Demo
 ---
 https://strimcoder.github.io/Another-Way-to-Wish/
+---
+
+## 🙌 Contribution  
+
+Contributions, ideas, and suggestions are always welcome!  
+Feel free to check the [issues page](https://github.com/StrimCoder/The-BigBull---Stock-Prediction-Model/issues) or submit a pull request.
+
+---
+
+## 📃 License  
+
+This project is **open-source** and available under the [MIT License](LICENSE).
+
+---
+
+## 👑 Created By  
+
+**Bhushan Navsagar** ✨  
+[GitHub](https://github.com/StrimCoder) | [LinkedIn](https://www.linkedin.com/in/bhushan-navsagar-2b683a293/)
+
+
